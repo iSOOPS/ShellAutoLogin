@@ -1,0 +1,7 @@
+------------- example must delete befor execute ------------- 
+[服务器地址host] [端口号port] [服务器描述server desc]
+------------- example must delete befor execute ------------- 
+
+
+192.168.0.254 22 TheRemoteServerDesc
+

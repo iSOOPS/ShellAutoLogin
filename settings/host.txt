@@ -1,0 +1,8 @@
+------------- example must delete befor execute ------------- 
+[登录账号account] [密码passwd]
+该文件名称必须何server.text中的服务器一一对应,多个服务器时,该文件需要建立多个,server.txt只有一个
+this file name must be same with server.text host line.this file must create many when the server have many,but server.txt must be one.
+------------- example must delete befor execute ------------- 
+
+
+root 123456
