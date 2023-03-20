@@ -18,12 +18,16 @@ also I need a script can used by any Terminal tool and I don't need to settings 
 
 ## root 
 | -- README.md
+
 | -- _actioncreator.sh 生成actions文件夹以及执行文件(this script can create actions dir and script for execute)
+
 | -- script 主要脚本(main script)
+
 | -- settings 配置服务器信息,账户信息(server info,account info)
 
 ## settings
 | -- xxx.xxx.xxx.xxx.txt 账户信息xxx为host地址(account info,filename must be host)
+
 | -- server.txt 配置服务器信息(server info)
 
 ## actions (通过_actioncreator生成) (create by _actioncreator script)
